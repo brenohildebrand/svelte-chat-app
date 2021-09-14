@@ -24,6 +24,7 @@ If you want to run this project on your machine, follow these steps:
 2. Go to the server directory and run yarn dev.
 
     ```sh
+    cd svelte-chat-app
     cd server
     yarn dev
     ```
