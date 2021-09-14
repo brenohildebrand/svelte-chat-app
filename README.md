@@ -5,13 +5,15 @@ A chat app created with svelte, node and socket.io.
 
 ## Up and running!
 
-![svelte-chat-app running](./animation)
+![svelte-chat-app running](./animation.gif)
 
 <br/>
 
 ## Get Started
 
 If you want to run this project on your machine, follow these steps:
+
+<br/>
 
 1. Clone the repo.
     
@@ -25,6 +27,9 @@ If you want to run this project on your machine, follow these steps:
     cd server
     yarn dev
     ```
+
+<br/>
+<br/>
 
 The server will be listening on port 3000, so go to localhost:3000 and it should be running. Open a few tabs and see the logs.
 
